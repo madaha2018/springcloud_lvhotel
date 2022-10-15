@@ -1,0 +1,2 @@
+# springcloud_lvhotel
+springcloud+redis+rabbitmq+mongodb+websoact+elasticsearch分布式开发旅马酒店系统
